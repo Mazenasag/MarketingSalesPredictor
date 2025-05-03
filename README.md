@@ -1,6 +1,7 @@
 # MarketingSalesPredictor
 
 
+
 ## **Problem Statement**
 
 The task involves predicting future sales for businesses that offer products or services. Given the ever-changing market dynamics, it is crucial for businesses to forecast sales accurately, considering factors such as advertising spending, audience targeting, and the choice of advertising platforms.
